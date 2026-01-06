@@ -11,6 +11,10 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "API Reference",
+        "openapi": "https://api.closebot.com/swagger/v1/swagger.json"
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
